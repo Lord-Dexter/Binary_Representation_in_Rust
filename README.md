@@ -10,4 +10,4 @@ In addition to showing factorials, but only for positive numbers, I have decided
 ## Guide for use
 using a **Rust** language compiler, you type `cargo run` in the terminal, it will build, then ask you to type a number like following:-
 
-![code example](Code.PNG)
+![code example](Code.png)
